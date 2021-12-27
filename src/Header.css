@@ -17,7 +17,7 @@
 .header__input {
     display: flex;
     align-items: center;
-    background-color: #ebf2f7;
+    background-color: aliceblue;
     padding: 10px;
     margin-left: 10px;
     border-radius: 999px;
@@ -67,7 +67,7 @@
 }
 
 .header__option:hover {
-    background-color: #ebf2f7;
+    background-color: aliceblue;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
