@@ -35,6 +35,7 @@
     border: none;
     background-color: transparent;
     outline-width: 0;
+    outline: none;
 }
 
 .header__center {
